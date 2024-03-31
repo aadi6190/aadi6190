@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aadi6190
+- 👋 Hi, I’m Aadesh Singh
 - 👀 I’m interested in job in Mern Stack
 - 🌱 I’m currently learning React/Nextjs
 - 💞️ I’m looking to collaborate on Web Devlopement field
